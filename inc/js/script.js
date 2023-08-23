@@ -2,7 +2,7 @@ $(document).ready(function () {
     var gameOverSoundPlayed = false; 
     var hitrn = 0;
     var score = 0;
-    var timer = 15;
+    var timer = 60;
     // Function to increase the score
     function increaseScore() {
         score += 10;
